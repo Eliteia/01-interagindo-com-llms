@@ -12,8 +12,8 @@ A atividade proposta disponibiliza dois arquivos para serem baixados e utilizado
 O objetivo é pedir para diferentes modelos de IA interpretarem os textos, traduzirem para o português e criarem resumos do que estava escrito no texto original.
 
 Textos em latim:
-* [Philosophiae Naturalis]()
-* [Passagens Bíblicas em Latim]()
+* [Philosophiae Naturalis](https://github.com/Eliteia/01-interagindo-com-llms/blob/main/assets/Base%20Text%20I.txt)
+* [Passagens Bíblicas em Latim](https://github.com/Eliteia/01-interagindo-com-llms/blob/main/assets/Base%20Text%20II.txt)
 
 Principais modelos utilizados:
 * ChatGPT 4.0
@@ -69,7 +69,7 @@ A análise de uma planilha contendo oito equipamentos (V1-V8) e dezessete sensor
 Para concluir essa atividade era necessário que os modelos descobrissem qual equipamento estava com defeito, utilizando como base os dados da planilha e aplicando funções estatísticas apropriadas.
 
 Planilha utilizada:
-* [Defective Equipment]()
+* [Defective Equipment](https://github.com/Eliteia/01-interagindo-com-llms/blob/main/assets/Defective_Equipment%20v2025-04-23.xlsx)
 
 Principais modelos testados:
 * Claude 3.7 Sonnet
@@ -104,7 +104,7 @@ Outros gráficos gerados pelo ChatGPT na análise da atividade:
 ### Terceiro Exercício - Reimaginando uma História Infantil 📖
 Nesta atividade, o exercício é dado para criar uma nova história do conto popular da Chapéuzinho Vermelho, utilizando um tom jornalístico na história.
 
-Cada historia está disponível [aqui]().
+Cada historia está disponível [aqui](https://github.com/Eliteia/01-interagindo-com-llms/tree/main/assets/historias).
 
 Os principais modelos utilizados para o roteiro:
 * ChatGPT 4
@@ -122,4 +122,18 @@ Coloque ideias de finais para essa reimaginação da história
 ```
 
 A seguir exemplos das historias geradas com os modelos:
+
+![Captura de tela de 2025-05-06 22-26-35](https://github.com/user-attachments/assets/4bd777a3-847f-409b-8d65-14945acbb05e)
+
+
+![Captura de tela de 2025-05-06 22-27-31](https://github.com/user-attachments/assets/2eb7c647-2b8b-45dd-a2a9-ba6c79172cd4)
+
+
+![Captura de tela de 2025-05-06 22-25-32](https://github.com/user-attachments/assets/51babe06-acb2-4062-a339-d9b3b98f4f0c)
+
+
+![Captura de tela de 2025-05-06 22-27-05](https://github.com/user-attachments/assets/6bdc61c4-dbb5-430e-8ca3-347d7e80d710)
+
+
+![Captura de tela de 2025-05-06 22-25-59](https://github.com/user-attachments/assets/3d35abb7-2b9e-48d0-a8f6-f053b9aa5ccf)
 
