@@ -4,7 +4,7 @@ Esse foi o tema do primeiro desafio do curso de Agentes Autônomos ministrado pe
 Cada membro do grupo teve a responsabilidade de realizar essas três atividades com o auxílio de modelos de IA:
 * Traduzir textos antigos em latim
 * Analisar uma planilha com dados coletados de sensores e descobrir o equipamento defeituoso
-* Desenvolver uma reimaginação da popular história da "Chapeuzinho Vermelho"
+* Desenvolver uma reimaginação da popular história da "Chapéuzinho Vermelho"
 
 ### Primeiro Exercício - Tradução de Textos Antigos 📜
 A atividade proposta disponibiliza dois arquivos para serem baixados e utilizados para tradução. 
@@ -102,3 +102,24 @@ Outros gráficos gerados pelo ChatGPT na análise da atividade:
 
 
 ### Terceiro Exercício - Reimaginando uma História Infantil 📖
+Nesta atividade, o exercício é dado para criar uma nova história do conto popular da Chapéuzinho Vermelho, utilizando um tom jornalístico na história.
+
+Cada historia está disponível [aqui]().
+
+Os principais modelos utilizados para o roteiro:
+* ChatGPT 4
+* Grok 3
+* Gemini 2.0
+
+Modelos para geração de imagens:
+* ChatGPT 4 (Dall-e)
+
+Prompt para auxiliar na criação do roteiro:
+```
+Escreva um prompt adequado para gerar uma nova história da Chapeúzinho Vermelho, de modo que
+esteja em um formato jornalístico e profissional, como uma notícia contada.
+Coloque ideias de finais para essa reimaginação da história
+```
+
+A seguir exemplos das historias geradas com os modelos:
+
